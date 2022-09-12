@@ -1,1 +1,2 @@
-DHNCK
+DHNCK 
+add fun 2
