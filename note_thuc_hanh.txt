@@ -1,0 +1,8 @@
+Rebase
+reset hard, sort, mix
+reverse
+cherry pick
+
+git HEAD 
+git index
+git working dir
